@@ -68,10 +68,10 @@
 **팀명**: 육각형 연구소 (Hexagon Lab)  
 **의미**: `6명의 유능한 개발자가 다양한 문제를 균형 잡힌 방식으로 해결하는 협력 지향 팀.`
 
-| ![최은영](https://github.com/silver0-stack.png) | ![김홍세](https://github.com/hongse-kim.png) | ![임서이](https://github.com/seo-lee.png) | ![노수진](https://github.com/soojin-no.png) | ![김태장](https://github.com/taejang-kim.png) | ![이상무](https://github.com/sangmu-lee.png) |
+| ![최은영](https://github.com/silver0-stack.png) | ![김홍세](https://github.com/ghdtpwlq.png) | ![임서이](https://github.com/hanadoolyseoi.png) | ![노수진](https://github.com/sujannoh.png) | ![김태장](https://github.com/TJ-kim0514.png) | ![이상무](https://github.com/NickLee-dev.png) |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | **최은영 (팀장)** | **김홍세 (부팀장)** | **임서이** | **노수진** | **김태장** | **이상무** |
-| 건강 및 안전 관리, 공공문서 작성 | TTS 기능 개발, 뇌질환 재활 프로그램 | 건강 및 이벤트 알림 시스템 설계 | 데이터 관리, 병력 ChatBot | 회원가입 및 공지사항 개발 | 책 읽어주기 TTS 기능 개발 |
+| - |- | - | - | - | - |
 
 
 
@@ -98,6 +98,6 @@ cd server
 
 ## 기여 및 문의
 ### 기여 방법
-이 프로젝트에 기여하고 싶다면 `육각형 연구소`에게 🙌
+이 프로젝트에 기여하고 싶다면 `육각형 연구소`에게 문의하세요. 🙌
 ### 문의
 - 팀 이메일: dev.silverplus@gmail.com
