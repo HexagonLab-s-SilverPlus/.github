@@ -83,12 +83,14 @@
 ```bash
 git clone https://github.com/your-repo/SilverPlus.git
 cd SilverPlus
+```
 
 ### 프론트엔드 실행
 ```bash
 cd client
 npm install
 npm start
+```
 
 ### 백엔드 실행
 ```bash
