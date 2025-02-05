@@ -68,10 +68,21 @@
 **팀명**: 육각형 연구소 (Hexagon Lab)  
 **의미**: `6명의 유능한 개발자가 다양한 문제를 균형 잡힌 방식으로 해결하는 협력 지향 팀.`
 
-| ![최은영](https://github.com/silver0-stack.png) | ![김홍세](https://github.com/ghdtpwlq.png) | ![임서이](https://github.com/hanadoolyseoi.png) | ![노수진](https://github.com/sujannoh.png) | ![김태장](https://github.com/TJ-kim0514.png) | ![이상무](https://github.com/NickLee-dev.png) |
-|-------------|-------------|-------------|-------------|-------------|-------------|
-| **최은영 (팀장)** | **김홍세 (부팀장)** | **임서이** | **노수진** | **김태장** | **이상무** |
-| - |- | - | - | - | - |
+
+| ![최은영](https://github.com/silver0-stack.png) | ![김홍세](https://github.com/ghdtpwlq.png) | ![임서이](https://github.com/hanadoolyseoi.png) |
+|:-------------:|:-------------:|:-------------:|
+| **최은영 (팀장)** | **김홍세 (부팀장)** | **임서이** |
+| **담당 업무** | **담당 업무** | **담당 업무** |
+| - 어르신 AI 말동무 서비스 개발<br>- 말동무 AI 응답을 보이스와 함께 전달<br>- AI와의 대화로 공문서 데이터가 담긴 CSV 파일 자동 생성<br>- DB 설계 및 구축, Git 버전 관리<br>- JavaScript 및 CSS 활용 프론트엔드 개선<br>- React 기반 컴포넌트 설계 및 구현 | Q&A 및 FAQ 게시판 CRUD 구현<br>파일 기반 BOOK 데이터 읽기 기능<br>위급 상황 시 카메라 촬영 및 위기 감지<br>위급 상황 발생 시 전화 및 문자 전송<br>DB 설계 및 구축, Git 버전 관리<br>JavaScript 및 CSS 활용<br>React 기반 컴포넌트 설계 및 구현 | 어르신 활동 및 혜택 프로그램 설계<br>어르신 병력 관리 시스템 구축<br>AI 기반 말동무 감정 분석 기능<br>UX/UI 컨셉 및 뷰 디자인 설계<br>DB 설계 및 구축, Git 버전 관리<br>JavaScript 및 CSS 활용<br>React 기반 컴포넌트 설계 및 구현 |
+
+| ![노수진](https://github.com/sujannoh.png) | ![김태장](https://github.com/TJ-kim0514.png) | ![이상무](https://github.com/NickLee-dev.png) |
+|:-------------:|:-------------:|:-------------:|
+| **노수진** | **김태장** | **이상무** |
+| **담당 업무** | **담당 업무** | **담당 업무** |
+| FullCalendar 기반 TODO 대시보드 구현<br>AI 공문서 작성 담당자 Role 처리<br>공문서 상태 처리 및 페이징 기능<br>DB 설계 및 구축, Git 버전 관리<br>JavaScript 및 CSS 활용<br>React 기반 컴포넌트 설계 및 구현 | JWT 기반 회원 서비스 개발<br>어르신 관리 메인 페이지 구현<br>소셜 로그인 및 페이스 로그인 기능<br>DB 설계 및 구축, Git 버전 관리<br>JavaScript 및 CSS 활용<br>React 기반 컴포넌트 설계 및 구현 | 공지사항 게시판 CRUD 구현<br>어르신 맞춤형 게임 개발<br>STT & TTS AI 활용 페이지 이동<br>DB 설계 및 구축, Git 버전 관리<br>JavaScript 및 CSS 활용<br>React 기반 컴포넌트 설계 및 구현 |
+
+
+
 
 
 
