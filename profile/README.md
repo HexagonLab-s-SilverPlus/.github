@@ -1,5 +1,39 @@
-# SilverPlus - 어르신 AI 말동무 및 공문서 작성 도우미
+<div align="center">
 
+# 🧓 SilverPlus  
+### 어르신 AI 말동무 & 공문서 작성 도우미 플랫폼
+
+<br/>
+
+<!-- 핵심 기술 스택 -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/gTTS-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br/>
+
+<!-- 협업/환경 -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<br/>
+
+<!-- 프로젝트 상태 -->
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Version-1.0.0-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Last%20Update-2025.01-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Optional: 대표 이미지 / 시연 GIF -->
+<!-- <img src="이미지링크" width="80%" /> -->
+
+</div>
+
+---
 
 ## 프로젝트 소개
 **SilverPlus**는 고령화 사회의 노인 복지 증진을 목표로 하는 **AI 기반 어르신 말동무 서비스**와 **관공서 문서 작성 보조 기능**을 제공하는 통합 플랫폼입니다.  
